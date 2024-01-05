@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **hlary.r0mo31@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/hlaryr0mo)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/hlaryr0mo/)
 
 - ⚡ Fun fact **I'm a music junkie. I'm also a die-hard BTS fan💜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hlxryr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hlxryr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hlxryr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hlxryr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
