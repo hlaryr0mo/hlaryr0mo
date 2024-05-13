@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Tailwind and Python**
 
-- 🤝 I’m looking for an **internship. Please hire me!**
+- 🤝 I’m looking for an **internship. Please hire me!** (Update: I already have a job lol)
 
 - 📫 How to reach me **hlary.r0mo31@gmail.com**
 
